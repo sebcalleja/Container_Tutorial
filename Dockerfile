@@ -1,3 +1,4 @@
+## Let's get this thing started
 FROM ubuntu:18.04
 
 WORKDIR /opt
